@@ -1,5 +1,4 @@
-## Improving the Robustness of Neural Network
-## on Road Segmentation via Stability Training
+## Improving the Robustness of Neural Network on Road Segmentation via Stability Training
 
 ### Project directory layout
 
