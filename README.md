@@ -38,7 +38,7 @@
     │	│	├── JPEG20
     │	│	└── ...
     │	└──  Metrics                    # Dictionaries that collects the dice loss of the test set images
-    └── Weights                    	# The weights of the base and the stability model
+    └── Weights                    	        # The weights of the base and the stability model
 
 ### Code files
 1. Datapreprocessing.ipynb
